@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "star-trek-dashboard",
+  "private_key_id": "f0dfbc2ddf062363e3ba3fadfe39028e1d7b7550",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQ9qpM/sHc/EKP\nQonnOx+rIYRlLKEupcx3ZJ5O+eojfCaEkufkzlCiSNbo1j+6NJN51reMxMi122RF\nr5FXTNDlUbtA0NUaO7Vfdu96Uc5aXvzbIENXsNnMAEWspekXBE5bNNwQn4ZLTwLY\nhzituvAevixN2TqJ77lbIHT3TTZcQzOVsge2qZygi7zpOMd9QKqDxWFt2KWmswQ1\nh/fY7J4fBVIB6zQveOzZCZYFB0hPWOWdufcMAYW6U475liCWGEBvOoCgNynv3xT3\n1f6X1J3Em/9kEdSiAGhWMJpxXqLRtyYYLhbO8xJQKu2tUbLN7hAh4XRg2VkBYGDC\nfRKIX4NTAgMBAAECggEABxyDOoWSUWlLAUHGxwDDGM7WM59A3laJeSgKdIOazURa\nBzmnUf5szhO5L0lYoodMMYxLc4CgQq10Yc68x9d3EHwnPuhx0tJktMVWbGJA/zWr\nrfAQz/jWdf6DCyzGRvXq42hkHjNfnaEoZqK2HMDM5S7xpmCV1ms7HU0jIztpyy/1\nLLzp3PiC8J3ROKu26N5aICUXfl8TdQbYx2E5wCm5fB1hugHY9D54AxivdZxsr6VJ\nLYilTkyhIisbmPTRQ7ZL3LzwYm8ZElSeGJxtk11sGVhIU4TrBaUCnTwZGxi3i13E\niKoFotm9AMHBrjt8P1xnIEZhx1UZJ7g+HpJY6uHBKQKBgQD31zvo/8HZ4I5ZHGDt\nYUYHOzGXyHGzkjutTtY0bwh4+4gmRLj5h5BzY/fN7Z8IM/dJIOj4hcwhufFCssev\n6IYKBmYKZNEpm/pYEV3Fsw2g3t2phjbeJ+6MX6we/zfHSPXDUMbDFMFGGlP7cZ74\nCg8YsZ7CPoDpuvYNc04MAZ/rvwKBgQDX18eVcxptfcAxIC57uwkZ1WOBoA6Lrvb/\nkKV3f67tVdEORa53BS0y6rdsYreHrxuTq41x4rD1y/CJ3k7a0/VbDxgNxtceC4pk\n/XEy/LC0kueAx3u1fARwO2GC7C8zhgDLcqtvLLP56bDdf1LLReGqV7cxRJB3549+\npC7Q+UydbQKBgQC3pYM9KZbJDX4tRbwE6dlsLk6XO+4Us70ItKxA+i17CFdgk/fE\n3tEI0AClVPhMqcUJKRu4W9xg+VlupO8Wx+PatdcSyJW8kVm1vFiR0BW/KKVzooIx\np8E5vwLZjSAVyVhivA4sK8rzWTr1zMGQ5lM9ZxBOuuXnS6RbXx9sAiAwHQKBgDXA\nngqg9Kbp1zAkxI65wIV3d+VzN8wfkZGJszt0R9sBMSPtxIoNdvkkLPPIDc6zlBmN\ncpc3DjzYQhoDi/3BJWw88Q+VQkNQOnH2D/fTqCoAH7kZdLx4mx5cG2egbAzXxWDl\nOL5iEpwdT5eJutO2noFugMe7PIMv3rN6LdKLE0JtAoGAUa+f17+fEz77iHTIot1v\nspKxvA+rQ1seWnaZQVeKT/l5Xt5b2ClMcjRj2Yjk/z+exPDJcYIQxE5Caztx8POJ\nCJsMZrMAbXNrnNpulQowb/kaoBdii16TiVUWk9PGlRWmDOwgMEEIDzpNTN9qDbDW\nL34eazn8Go4SNHpBOc49TzY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "star-trek-dashboard@star-trek-dashboard.iam.gserviceaccount.com",
+  "client_id": "102512069962567954073",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/star-trek-dashboard%40star-trek-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
