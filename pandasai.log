@@ -1,0 +1,32 @@
+2023-07-04 15:32:23 [INFO] Question: Can we arrange this dataset to be sorted by date?
+2023-07-04 15:32:23 [INFO] Running PandasAI with openai LLM...
+2023-07-04 15:32:23 [INFO] Prompt ID: e73ebb19-09f3-4eb9-bd8c-d4a8680c3ef0
+2023-07-04 15:32:25 [INFO] 
+                        Code generated:
+                        ```
+                        df_sorted = df.sort_values('date')
+                        ```
+                    
+2023-07-04 15:32:25 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values('date')
+```
+2023-07-04 15:32:25 [INFO] Answer: 
+2023-07-04 15:32:25 [INFO] Executed in: 1.9400379657745361s
+2023-07-04 15:34:18 [INFO] Question: Can we sort this dataset by date in ascending order?
+2023-07-04 15:34:18 [INFO] Running PandasAI with openai LLM...
+2023-07-04 15:34:18 [INFO] Prompt ID: 4bd780b2-efc1-4608-9074-b8513d5016f2
+2023-07-04 15:34:20 [INFO] 
+                        Code generated:
+                        ```
+                        df_sorted = df.sort_values('date', ascending=True)
+                        ```
+                    
+2023-07-04 15:34:20 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values('date', ascending=True)
+```
+2023-07-04 15:34:20 [INFO] Answer: 
+2023-07-04 15:34:20 [INFO] Executed in: 2.139371633529663s
